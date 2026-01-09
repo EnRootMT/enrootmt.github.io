@@ -12,7 +12,9 @@ Cet article vient compléter une vidéo dans laquelle je montre comment j’ai f
 Cet article est le **deuxième d’une série** consacrée à l’aménagement de ma Kangoo.
 
 👉 Le premier article est disponible ici :  
-<https://enrootmauvaisetroupe.fr/index.php/2021/03/09/amenager-un-kangoo-en-van-etude-et-conception/>
+[Aménager un Kangoo en van – Étude et conception]({% post_url 2021-03-09-kangoo-etude %})
+
+
 
 Ici, vous trouverez :
 - les liens vers les vidéos de fabrication du **caisson** et du **lit**
