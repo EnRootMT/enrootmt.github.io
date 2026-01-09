@@ -1,8 +1,8 @@
 ---
-title: "Aménager un Kangoo en van – Fabrication du caisson et du lit"
-date: 2021-03-01
-categories: [Vanlife, Aménagement]
-tags: [kangoo, van, diy, bois, amenagement]
+title: Mon super article
+date: 2021-05-20 12:00:00 +0200
+categories: [tutoriel, jekyll]
+tags: [astuce, web]
 ---
 
 # Introduction
