@@ -1,8 +1,8 @@
 ---
 title: kangoo
 date: 2021-05-20 12:00:00 +0200
-categories: [tutoriel, jekyll]
-tags: [astuce, web]
+categories: [Tutoriels, Voiture]
+tags: [kangoo, amenagement, vanlife]
 ---
 
 # Introduction
