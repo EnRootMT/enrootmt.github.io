@@ -3,35 +3,24 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-# Ce site
+## Ce site
 
 Ce site est principalement un **complément écrit** de mes chaînes YouTube :
 
-- https://youtube.com/@EnrootMT
-- https://www.youtube.com/@en_root
+- ▶️ 🇫🇷 [Chaine Youtube en francais](https://youtube.com/@EnrootMT)
+- ▶️ 🇬🇧 [Chaine Youtube en anglais](https://www.youtube.com/@en_root)
 
-# Collaborations
+## Collaborations
 
-Pour les offres de collaboration contactez moi à l'adresse suivante:
+Pour les offres de collaboration contactez moi à l'adresse suivante :
 
-📧 enrootmauvaisetroupe@gmail.com  
+📧 [enrootmauvaisetroupe@gmail.com](mailto:enrootmauvaisetroupe@gmail.com)
 
-# Thèmes abordés
+## Contacts
 
-- Informatique
-- Bricolage
-- Réparations
-
----
-
-# Contacts
-
-📧 enrootmauvaisetroupe@gmail.com  
-🐙 GitHub : https://github.com/EnRootMT  
-🎥 YouTube : https://youtube.com/@EnrootMT
-
-
+📧 [enrootmauvaisetroupe@gmail.com](mailto:enrootmauvaisetroupe@gmail.com)  
+🐙 [GitHub EnRootMT](https://github.com/EnRootMT)  
+▶️ [YouTube EnrootMT](https://youtube.com/@EnrootMT)
 
 
 
