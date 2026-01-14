@@ -6,7 +6,14 @@ categories: [Tutoriels, Linux]
 tags: [ubuntu, virtualbox, vm]
 ---
 
-# Installer les Additions invité VirtualBox sous Ubuntu
+* Inserer le cd des addons
+
+![My image](/_assets/img/Screenshot_20260114_101706-1.png)
+
+
+![insert CD](https://enrootmauvaisetroupe.fr/wp-content/uploads/2022/02/total.00_02_11_02.Still003-1024x768.jpg)
+
+* Installer les Additions invité VirtualBox sous Ubuntu
 
 ```bash
 sudo apt update
@@ -15,6 +22,8 @@ sudo sh /media/*/VBox*/VBoxLinuxAdditions.run
 sudo reboot
 ```
 
-# Activer l'option
+* Activer l'option
 
+
+![LED Matrix Wiring 1](https://enrootmauvaisetroupe.fr/wp-content/uploads/2022/02/total.00_02_11_02.Still003-1024x768.jpg)
 
