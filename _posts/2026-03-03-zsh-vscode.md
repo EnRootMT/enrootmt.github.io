@@ -2,7 +2,7 @@
 title: Zsh par défaut dans VSCode
 date: 2026-03-03
 categories: [Tutoriels, Linux]
-tags: [ubuntu, vscode]
+tags: [ubuntu, vscode, linux]
 ---
 
 # Prérequis
